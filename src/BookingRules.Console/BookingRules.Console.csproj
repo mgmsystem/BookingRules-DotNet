@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BookingRules.Domain\BookingRules.Domain.csproj" />
+    <ProjectReference Include="..\BookingRules.Infrastructure\BookingRules.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>
