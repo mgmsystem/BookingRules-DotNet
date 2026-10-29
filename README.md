@@ -1,5 +1,8 @@
 # BookingRules for .NET
 
+[![.NET CI](https://github.com/mgmsystem/BookingRules-DotNet/actions/workflows/dotnet-ci.yml/badge.svg)](https://github.com/mgmsystem/BookingRules-DotNet/actions/workflows/dotnet-ci.yml)
+
+
 **A .NET 9 implementation of the Delphi BookingRules project, demonstrating
 SOLID principles, dependency injection, consistent repository reads, and
 automated testing with MSTest.**
